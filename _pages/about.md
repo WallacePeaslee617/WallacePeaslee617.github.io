@@ -12,7 +12,7 @@ profile:
   address: >
     <p style="font-size:12px">Office 000, Pavillion F</p>
     <p style="font-size:12px">Centre for Mathematical Sciences</p>
-    <p style="font-size:12px">Cambridge, UK </p>
+    <p style="font-size:12px">Cambridge, UK <br> </p>
     <p></p>
 
 news: false # true  # includes a list of news items
