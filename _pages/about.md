@@ -13,7 +13,7 @@ profile:
     <p style="font-size:12px">Office 000, Pavillion F</p>
     <p style="font-size:12px">Centre for Mathematical Sciences</p>
     <p style="font-size:12px">Cambridge, UK <br/> </p>
-    <p><br/></p>
+    <p><br/>.</p>
 
 news: false # true  # includes a list of news items
 selected_papers: false # true # includes a list of papers marked as "selected={true}"
