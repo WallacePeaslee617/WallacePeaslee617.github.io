@@ -95,6 +95,9 @@ blog_nav_title: posts # your blog must have a title for it to be displayed in th
 blog_description: A collection of ideas
 permalink: /blog/:year/:title/
 
+nav: true
+nav_order: 3
+
 # Pagination
 pagination:
   enabled: true
