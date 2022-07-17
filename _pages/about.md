@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>office number </p>
-    <p>Centre for Mathematical Sciences</p>
+    <p>office ### </p>
+    <p>Pavillion F, CMS</p>
     <p>Cambridge, UK </p>
 
 news: false # true  # includes a list of news items
