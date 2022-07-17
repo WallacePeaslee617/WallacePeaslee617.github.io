@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 17th June 2000
     - name: Languages
-      value: English (native langue), Arabic (intermediate profeciency)
+      value: English, Arabic
 
 - title: Education
   type: time_table
@@ -22,7 +22,7 @@
       institution: Duke University, Durham, NC, USA
       year: 2018-2022
       description:
-        - Graduated magna cum laude (3.958 GPA) with distinction in mathematics.
+        - Graduated magna cum laude ,3.958 GPA, with distinction in mathematics.
         - Collaborated with Professor Ingrid Daubechies and the international research team ARTICT on projects related to mathematics for image processing related to art investigation.
         - Completed a senior thesis in pure mathematics related to cohomology and combinatorics under the supervision of Professor Joseph Rabinoff.
 
@@ -54,9 +54,9 @@
       institution: BSM
       year: 2020-now
       description:
-        - Completed research course with Budapest Semesters in Mathematics (grade A+) in Fall 2020.
+        - Completed research course with Budapest Semesters in Mathematics ,grade A+, in Fall 2020.
         - Research continued frome the course and a publication is expected.
-        - Working with Professor Attila Sali (Alfréd Rényi Institute of Mathematics) to make advances in the field of Forbidden Configurations, which has deep connections to combinatorics and graph theory.
+        - Working with Professor Attila Sali ,Alfréd Rényi Institute of Mathematics, to make advances in the field of Forbidden Configurations, which has deep connections to combinatorics and graph theory.
   
   - title: Undergraduate Teaching Assistant
       institution: Duke University
@@ -75,7 +75,7 @@
       description:
         - Communicated with reviewers and publishers while managing a small team facilitate the tri-annual publication Research Africa Reviews, ISSN 2575-6990.
         - Moderated and distribute information to a group of approximately 1,500 scholars, supporting the development of the Research Africa scholarly network.
-        - Previously an associate editor from 2019-2020
+        - Previously an associate editor from 2019-2020.
 
 
 
@@ -90,7 +90,7 @@
       - HackDuke 2019 Capital One Best Financial Hack
     - title: Earlier awards
     items:
-      - Valedictorian (rank 1/550) West High School
+      - Valedictorian ,rank 1/550, West High School
       - National Merit Finalist and National AP Scholar
 
 - title: Academic Interests
@@ -109,5 +109,5 @@
   type: list
   contents:
     - <u>Cello:</u> I have been practicing and performaning cello since I was 5 years old.
-    - <u>Ultimate (frisbiee/disc):</u> I enjoy playing frisbee and played on an intermural team at Duke Univeristy.
+    - <u>Ultimate ,frisbiee/disc,:</u> I enjoy playing frisbee and played on an intermural team at Duke Univeristy.
     - <u>Basketball:</u> Duke University made me a fan.
