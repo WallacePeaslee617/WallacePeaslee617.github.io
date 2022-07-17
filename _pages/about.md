@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Office 000, Pavillion F</p>
-    <p>Centre for Mathematical Sciences</p>
-    <p>Cambridge, UK </p>
+    <p style="font-size:30px">Office 000, Pavillion F</p>
+    <p style="font-size:30px">Centre for Mathematical Sciences</p>
+    <p style="font-size:30px">Cambridge, UK </p>
 
 news: false # true  # includes a list of news items
 selected_papers: false # true # includes a list of papers marked as "selected={true}"
