@@ -87,7 +87,7 @@
   type: nested_list
   contents:
     - title: Mathematics of Information
-        items:
+      items:
         - I am interested in mathematics applied to data, particularly images.
         - I particularly study find high-dimensional data and data-reduction problems.
     - title: Topics from Pure Mathematics
