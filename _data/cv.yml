@@ -31,7 +31,7 @@
   contents:
     - title: Ingrid Daubechies Research Assistant
         institution: Duke Unviersity
-        year: 2020
+        year: 2020-now
         description:
           - Collaborate with Profossor Ingrid Daubechies and the international ARTICT team through multiple semesters of independent study, leading to journal publications and conference presentations. 
             - Develop and implement algorithms to analyze and extract features from multidimensional and multimodal datasets for art analysis. In particular, data processing methods such as PCA, as well as techniques from harmonic analysis and machine learning, are used to create image processing algorithms and tools.
@@ -52,7 +52,7 @@
 
 - title: Budapest Semesters in Mathematics
       institution: BSM
-      year: 2020
+      year: 2020-now
       description:
         - Completed research course with Budapest Semesters in Mathematics (grade A+) in Fall 2020.
         - Research continued frome the course and a publication is expected.
@@ -82,16 +82,16 @@
 - title: Honors and Awards
   type: nested_list
   contents:
-    -title: Undergraduate awards
+    - title: Undergraduate awards
     items:
       - Graduation with Distinction in Mathematics
       - Magna Cum Laude Latin Honors
       - HackDuke 2020 Wolfram Prize
       - HackDuke 2019 Capital One Best Financial Hack
-    -title: Earlier awards
+    - title: Earlier awards
     items:
-    - Valedictorian (rank 1/550) West High School
-    - National Merit Finalist and National AP Scholar
+      - Valedictorian (rank 1/550) West High School
+      - National Merit Finalist and National AP Scholar
 
 - title: Academic Interests
   type: nested_list
