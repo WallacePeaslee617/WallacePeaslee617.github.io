@@ -13,14 +13,14 @@
   contents:
     - title: PhD
       institution: University of Cambridge, Cambridge, UK
-      year: 2022 - present
+      year: 2022
       description:
         - Studying mathematics for information and image processing, with a focus on applications to arts and cultural heritage.
         - Collaborating with the Cambridge Image Analysis Group and supervised by Professor Carola-Bibiane Schönlieb.
         - Funded by Engineering and Physical Sciences Research Council
     - title: Bacholer of Science in Mathematics, Bacholer of Science in Computer Science
       institution: Duke University, Durham, NC, USA
-      year: 2018 - 2022
+      year: 2018-2022
       description:
         - Graduated magna cum laude (3.958 GPA) with distinction in mathematics.
         - Collaborated with Professor Ingrid Daubechies and the international research team ARTICT on projects related to mathematics for image processing related to art investigation.
@@ -31,7 +31,7 @@
   contents:
     - title: Ingrid Daubechies Research Assistant
         institution: Duke Unviersity
-        year: 2020 - present
+        year: 2020
         description:
           - Collaborate with Profossor Ingrid Daubechies and the international ARTICT team through multiple semesters of independent study, leading to journal publications and conference presentations. 
             - Develop and implement algorithms to analyze and extract features from multidimensional and multimodal datasets for art analysis. In particular, data processing methods such as PCA, as well as techniques from harmonic analysis and machine learning, are used to create image processing algorithms and tools.
@@ -43,7 +43,7 @@
 
   - title: PRUV Fellow
       institution: Duke University
-      year: 2021 - 2022
+      year: 2021-2022
       description:
         - Top undergrduate research fellowship at Duke University, supported by NSF.
         - Researched topics related to cohomology and combinatorics under the guidance of Professor Joseph Rabinoff.
@@ -52,7 +52,7 @@
 
 - title: Budapest Semesters in Mathematics
       institution: BSM
-      year: 2020 - present
+      year: 2020
       description:
         - Completed research course with Budapest Semesters in Mathematics (grade A+) in Fall 2020.
         - Research continued frome the course and a publication is expected.
@@ -71,7 +71,7 @@
         - Researched and developed algorithms to identify common amino-acid permutations in drug-discovery data.
   -   title: Lead Editor
       institution: Research Africa, Duke University
-      year: 2020 - 2022
+      year: 2020-2022
       description:
         - Communicated with reviewers and publishers while managing a small team facilitate the tri-annual publication Research Africa Reviews, ISSN 2575-6990.
         - Moderated and distribute information to a group of approximately 1,500 scholars, supporting the development of the Research Africa scholarly network.
