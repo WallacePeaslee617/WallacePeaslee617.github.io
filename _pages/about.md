@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics PhD Student # Mathematics PhD student at the University of Cambridge. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: #Mathematics PhD Student # Mathematics PhD student at the University of Cambridge. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
