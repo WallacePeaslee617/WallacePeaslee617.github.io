@@ -17,8 +17,6 @@ news: false # true  # includes a list of news items
 selected_papers: false # true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-\
-
 
 I am a mathematics PhD candidate in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge. I currently study on mathematics for image processing and art investigation under the supervision of Provessor [Carola-Bibiane Schönlieb](https://www.damtp.cam.ac.uk/user/cbs31/Home.html). I began my PhD in 2022 and am funded by the Engineering and Physical Sciences Research Council.
 
