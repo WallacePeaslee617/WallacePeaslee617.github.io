@@ -6,7 +6,7 @@ subtitle: Mathematics PhD student at the University of Cambridge. #<a href='#'>A
 
 profile:
   align: right
-  image: profile_pic.png
+  image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>Office 000, Pavillion F</p>
