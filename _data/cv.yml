@@ -87,14 +87,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Mathematics of Information
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - I am interested in mathematics applied to data, particularly images.
+        - I particularly study find high-dimensional data and data-reduction problems.
+    - title: Topics from Pure Mathematics
+    items:
+        - I enjoy learning some elementary number theory in my free time.
+        - I also have an interest in harmonic analysis arising from my work with Professor Ingrid Daubechies.
 
 - title: Other Interests
   type: list
